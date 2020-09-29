@@ -7,7 +7,7 @@ int main() {
     unsigned int altura;
 
     cin >> base;
-    cin >> base;
+    cin >> altura;
 
     cout << (base * altura) / 2 << endl;
 
