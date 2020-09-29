@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     unsigned int base;
-    unigned int altura;
+    unsigned int altura;
 
     cin >> base;
     cin >> base;
